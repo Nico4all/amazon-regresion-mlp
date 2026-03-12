@@ -1,0 +1,7 @@
+.venv-tf311/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+models/
+results/
+data/processed/
